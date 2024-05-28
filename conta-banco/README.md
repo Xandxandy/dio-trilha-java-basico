@@ -1,18 +1,12 @@
-## Getting Started
+## DIO - Trilha Java Projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto realizado como atividade do curso DIO - Trilha Java Básico.
 
-## Folder Structure
+## Simulação de Conta Bancária
 
-The workspace contains two folders by default, where:
+O projeto se baseava em realizar uma simulação de uma conta bancária utilizando o terminal/console. Onde, através de mensagens, foi pedido informações do usuário para a realização de sua conta.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Foi utilizado, para a finalização deste projeto:
+* Declaração de variáveis;
+* Uso de terminal e da classe Scanner;
+* Concatenação.
